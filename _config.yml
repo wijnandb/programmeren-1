@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "nl"
+locale                   : "en"
 title                    : "Programmeren met Scratch"
 title_separator          : "-"
 name                     : "CodeCult"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "CodeCult"
-  avatar           : "bio-photo.png"
-  bio              : "Leren door cre&euml;ren."
-  location         : "Noordwijk"
+  name             : "Your Name"
+  avatar           : "bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -161,11 +161,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
