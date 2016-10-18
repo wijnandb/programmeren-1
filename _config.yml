@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "nl"
 title                    : "Programmeren met Scratch"
 title_separator          : "-"
 name                     : "CodeCult"
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
 
 
 # Reading Files
