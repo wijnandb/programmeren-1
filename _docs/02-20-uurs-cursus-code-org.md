@@ -19,3 +19,9 @@ Binnen een herhaal-blok kunnen meerdere blokken geplaatst worden. In een aantal 
 
 ## Functies
 Denk er aan dat het defini&euml;ren van een functie niet genoeg is: de functie moet ook *aangeroepen* worden.
+
+# Vertalingen
+Helaas zijn de vertalingen naar het Nederlands op Code.org niet altijd even goed. Dit kan ook een reden zijn dat kinderen vastlopen, het is goed om ze hier mee te helpen, maar ook om ze er obver na te laten denken: wat zou "als pad voor" kunnen betekenen? Hoe kun je erachter komen wat dat betekent?
+
+# Samenwerken
+In de code.org omgeving heb je als docent ook de mogelijkheid om kinderen samen achter een computer te laten werken en bij te houden wie met wie heeft samengewerkt. De praktijk leert dat het goed en nuttig is om kinderen te laten samenwerken en elkaar uitleg te geven over hoe ze een bepaald probleem hebben opgelost.
