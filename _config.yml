@@ -9,9 +9,9 @@
 locale                   : "nl"
 title                    : "Programmeren met Scratch"
 title_separator          : "-"
-name                     : "CodeCult"
-description              : "Programmeren kun je leren."
-url                      : "https://wijnandb.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "CodeCult"
+description              : &description "Programmeren kun je leren."
+url                      : "https://wijnandb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/programmeren-1" # the subpath of your site, e.g. "/blog"
 repository               : "wijnandb/programmeren-1" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : wijnandb # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : CodeCult
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.png"
   bio              : "Leren door cre&euml;ren."
   location         : "Amsterdam"
-  email            :
+  email            : "info@codecult.nl"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +90,7 @@ author:
   facebook         :
   foursquare       :
   github           : wijnandb
-  google_plus      :
+  google_plus      : WijnandBaretta
   keybase          :
   instagram        :
   lastfm           :
