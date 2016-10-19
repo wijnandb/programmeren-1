@@ -14,7 +14,8 @@ Doordat de blokken bij zowel Blockly als bij Scratch in elkaar passen, is het ma
 Hieronder een paar veel voorkomende problemen waar kinderen mee te maken krijgen. Denk er aan dat het met name belangrijk is dat kinderen leren om zelf problemen op te lossen. Het is dus belangrijker om ze te helpen bij het logisch redeneren en stap voor stap oplossen van voorkomende problemen, dan om het antwoord voor te zeggen.
 
 ## Herhaal-blok
-Binnen een herhaal-blok kunnen meerdere blokken geplaatst worden. In een aantal gevallen gaat het er dus met name om het herkennen van een patroon. In onderstaand voorbeeld wordt een vierkant getekend met een herhaal-blok. ![herhaal-blok om vierkant te tekenen]("{{ site.url }}/images/codeorg/herhaal-blok-vierkant-tekenen.png")
+Binnen een herhaal-blok kunnen meerdere blokken geplaatst worden. In een aantal gevallen gaat het er dus met name om het herkennen van een patroon. In onderstaand voorbeeld wordt een vierkant getekend met een herhaal-blok.
+![herhaal-blok om vierkant te tekenen]({{ site.baseurl }}/images/codeorg/herhaal-blok.png)
 
 
 ## Functies
@@ -25,3 +26,5 @@ Helaas zijn de vertalingen naar het Nederlands op Code.org niet altijd even goed
 
 # Samenwerken
 In de code.org omgeving heb je als docent ook de mogelijkheid om kinderen samen achter een computer te laten werken en bij te houden wie met wie heeft samengewerkt. De praktijk leert dat het goed en nuttig is om kinderen te laten samenwerken en elkaar uitleg te geven over hoe ze een bepaald probleem hebben opgelost.
+Zie onderstaande video over *pair-programming*.
+{% include youtubeplayer.html id="vgkahOzFH2Q" %}

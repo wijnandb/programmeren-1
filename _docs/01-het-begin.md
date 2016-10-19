@@ -7,7 +7,7 @@ modified: 2016-10-10
 
 {% include base_path %}
 
-Om kennis te maken met verschillende programmeer-technieken, beginnen we op [Code.org](http://code.org). Het voordeel van de *puzzeltjes* op Code.org is dat verschillende concepten (zoals *herhaal*, *als-dan-anders* en *functies*) aan bod komen ne stap voor stap worden uitgelegd. Nadeel is dat er
+Om kennis te maken met verschillende programmeer-technieken, beginnen we op [Code.org](http://code.org). Het voordeel van de *puzzeltjes* op Code.org is dat verschillende concepten (zoals *herhaal*, *als-dan-anders* en *functies*) aan bod komen en stap voor stap worden uitgelegd. Nadeel is dat er maar één goede oplossing is, terwijl juist het mooie van programmeren is dat
 
 {% include toc %}
 
@@ -18,7 +18,7 @@ Er zijn verschillende mogelijkheden voor het aanmaken van accounts op [Code.org]
 Als je als [docent een account aanmaakt](https://studio.code.org/users/sign_up?user%5Buser_type%5D=teacher), kun je ook een klas aanmaken en leerlingaccounts binnen de klas aanmaken. Afhankelijk van de leeftijd (en/of vaardigheid) van de leerlingen, kun je kiezen voor  
 
 ## Leerling account
-Zoals gezegd kunnen leerlingen ook zelf een account aanmaken en zich later aanmelden bij de klas. Als een leerling [zelf een acccount] aanmaakt,
+Zoals gezegd kunnen leerlingen ook zelf een account aanmaken en zich later aanmelden bij de klas. Een leerling kan alleen [zelf een acccount aanmaken](https://code.org), is het noodzakelijk dat
 
 
 # Aanmelden bij klas
